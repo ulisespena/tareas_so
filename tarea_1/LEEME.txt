@@ -1,0 +1,18 @@
+
+Sistemas Operativos [Sección 02]
+12/09/2019
+
+Prof. Martín Gutiérrez
+Ayudante Yerko Ortiz
+
+Alumno : Ulises Peña B.
+
+-- Tarea 1 --
+
+  Uso:
+    - Enunciado 1: 'python main.py n' (python3)
+      + Primero compilar: 'g++ -o root root.cpp' y 'g++ -o spawn spawn.cpp'
+
+    - Enunciado 2: './main'
+      + Primero compilar: 'g++ -o main main.cpp -lpthread'
+
